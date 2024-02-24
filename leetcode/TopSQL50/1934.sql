@@ -20,3 +20,4 @@ select
 -- TODO 02-26
 -- TODO 02-27
 -- TODO 03-01
+-- https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50
