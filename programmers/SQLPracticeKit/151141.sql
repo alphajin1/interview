@@ -20,4 +20,5 @@ left join CAR_RENTAL_COMPANY_DISCOUNT_PLAN y
     on x.duration_type = y.duration_type and x.car_type = y.car_type
 order by fee desc, history_id desc
 
+-- TODO
 -- 자동차 대여 기록 별 대여 금액 구하기
