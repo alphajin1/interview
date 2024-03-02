@@ -29,4 +29,5 @@ def solution(n, times):
 
 
 # TODO 전혀 감도 안온 문제이다.
+# n이 매우크므로 이분탐색일 것이라는 가정을 해야 함.
 # 이분탐색 / 입국심사 / BinarySearch / level 3
