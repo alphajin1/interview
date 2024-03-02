@@ -29,4 +29,4 @@ def solution(n, times):
 
 
 # TODO 전혀 감도 안온 문제이다.
-# 이분탐색 / 입국심사 / BinarySearch
+# 이분탐색 / 입국심사 / BinarySearch / level 3
