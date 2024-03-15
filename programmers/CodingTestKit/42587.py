@@ -19,6 +19,7 @@ def solution(priorities, location):
                 break
 
         if is_first_priority:
+            # 찾고자 하는 프로세스의 위치
             if index == location:
                 break
 
@@ -29,4 +30,5 @@ def solution(priorities, location):
 
     return answer + 1
 
-# 스택/큐 / 프로세스 (Level 2)
+# 스택/큐 프로세스 (Level 2)
+# https://school.programmers.co.kr/learn/courses/30/lessons/42587
