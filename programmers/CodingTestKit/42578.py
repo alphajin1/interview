@@ -16,3 +16,4 @@ def solution(clothes):
     return answer
 
 # 해시 / 의상 (Level 2)
+# https://school.programmers.co.kr/learn/courses/30/lessons/42578
