@@ -1,7 +1,7 @@
 def solution(N, number):
     answer = 0
 
-    cache = []
+    cache = [] # index 주의할 것 (cache[i] = i + 1개 만큼 N을 사용한 결과이다. )
     for i in range(1, 9):
         cases = set()
         base_case = int(str(N) * i)  # 5, 55, 555 ...
