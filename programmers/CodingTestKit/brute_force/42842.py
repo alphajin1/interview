@@ -9,5 +9,5 @@ def solution(brown, yellow):
     return []
 
 
-# 완전탐색 / level 2
+# 카펫 / 완전탐색 / level 2
 # https://school.programmers.co.kr/learn/courses/30/lessons/42842
