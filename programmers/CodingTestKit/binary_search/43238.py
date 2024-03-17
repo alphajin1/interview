@@ -1,5 +1,5 @@
 def solution(n, times):
-    # 가능한 최솟값과 최댓값을 left와 right로 설정
+    # 가능한 최솟값과 최댓값을 left 와 right 로 설정
     left = 1
     right = max(times) * n
 
@@ -27,7 +27,6 @@ def solution(n, times):
             left = mid + 1
     return answer
 
-
-# TODO 전혀 감도 안온 문제이다.
-# n이 매우크므로 이분탐색일 것이라는 가정을 해야 함.
+# n이 매우 크므로 이분탐색 힌트
 # 이분탐색 / 입국심사 / BinarySearch / level 3
+# https://school.programmers.co.kr/learn/courses/30/lessons/43238
