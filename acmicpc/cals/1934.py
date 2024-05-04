@@ -1,7 +1,3 @@
-import sys
-import math
-
-
 def lcm(a, b):
     # 최대공약수 계산을 위한 함수
     def gcd(x, y):
@@ -11,6 +7,7 @@ def lcm(a, b):
 
     # 최소공배수 = (a * b) / 최대공약수
     return (a * b) // gcd(a, b)
+
 
 if __name__ == '__main__':
     n = int(input())
