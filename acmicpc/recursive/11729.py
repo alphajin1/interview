@@ -1,12 +1,7 @@
 import sys
-import heapq
-from collections import deque
-from collections import defaultdict
 
-INF = 987654321000
-input = sys.stdin.readline
-
-
+# FAILED, 정확하게 이해는 가지 않음. 하노이의 탑
+# https://dev-scratch.tistory.com/22
 def hanoi(n, x, y, z):
     if n == 1:
         print(x, z)
