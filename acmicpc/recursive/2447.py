@@ -1,11 +1,7 @@
 import sys
-import heapq
-from collections import deque
-from collections import defaultdict
 
-INF = 987654321000
-input = sys.stdin.readline
-
+# FAILED, 별찍기 10
+# https://edder773.tistory.com/39
 
 def recursive_star(n):
     if n == 1:
