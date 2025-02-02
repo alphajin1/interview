@@ -17,3 +17,4 @@ def solution(people, limit):
 
 # TODO 한번에 최대 2명만 탈 수 있다. 이것을 기억하자.
 # 그리디 / 구명보트 / level 2
+# https://school.programmers.co.kr/learn/courses/30/lessons/42885
